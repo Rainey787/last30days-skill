@@ -1253,3 +1253,5 @@ Each API key is transmitted only to its respective endpoint. Your OpenAI key is 
 *30 days of research. 30 seconds of work. Eight sources. Zero stale prompts.*
 
 *Pair with [Open Claw](https://github.com/openclaw/openclaw) for automated watchlists and briefings. Reddit. X. YouTube. TikTok. Instagram. Web. — All synthesized into expert answers and copy-paste prompts.*
+## Open Source Discovery
+I forked the the last 30 days repository because automated news is cool asf :D
